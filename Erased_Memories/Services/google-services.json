@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009482475916",
+    "project_id": "tfg-mariorodrigomarcos",
+    "storage_bucket": "tfg-mariorodrigomarcos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009482475916:android:2f0c64adc1db111d5a0ea9",
+        "android_client_info": {
+          "package_name": "com.erased_memories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGPIg0qH71o18snrpJMNJox9ByqulLo7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
